@@ -1,4 +1,5 @@
 # Hospital-management-system-
+html CSS JavaScript Python 
 from flask import Flask, render_template, session, request, redirect, url_for
 from flask_sqlalchemy import SQLAlchemy
 import mysql.connector
